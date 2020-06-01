@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 3f031350c7cbe4f4c84848ca1bcd7be6
+ModelImporter:
+  serializedVersion: 20100
+  internalIDToNameTable:
+  - first:
+      74: 6133904589370023988
+    second: mario galaxy original
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mario galaxy original' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'mario_Spine1_dummy' has translation
+      animation that will be discarded.\n\t'mario_Spine1' has scale animation that
+      will be discarded.\n\t'mario_Spine2_dummy' has translation animation that will
+      be discarded.\n\t'mario_Spine2' has scale animation that will be discarded.\n\t'mario_Head_dummy'
+      has translation animation that will be discarded.\n\t'mario_Head' has scale
+      animation that will be discarded.\n\t'mario_EyePosition' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'mario_ArmL1_dummy'
+      has translation animation that will be discarded.\n\t'mario_ArmL1' has scale
+      animation that will be discarded.\n\t'mario_ArmL2' has scale animation that
+      will be discarded.\n\t'mario_HandL_dummy' has translation animation that will
+      be discarded.\n\t'mario_HandL' has scale animation that will be discarded.\n\t'mario_ArmR1_dummy'
+      has translation animation that will be discarded.\n\t'mario_ArmR1' has scale
+      animation that will be discarded.\n\t'mario_ArmR2' has scale animation that
+      will be discarded.\n\t'mario_HandR_dummy' has translation animation that will
+      be discarded.\n\t'mario_HandR' has scale animation that will be discarded.\n\t'mario_Hip'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'mario_LegL1_dummy'
+      has translation animation that will be discarded.\n\t'mario_LegL1' has scale
+      animation that will be discarded.\n\t'mario_LegL2_dummy' has translation animation
+      that will be discarded.\n\t'mario_LegL2' has scale animation that will be discarded.\n\t'mario_FootL_dummy'
+      has translation animation that will be discarded.\n\t'mario_FootL' has scale
+      animation that will be discarded.\n\t'mario_LegR1_dummy' has translation animation
+      that will be discarded.\n\t'mario_LegR1' has scale animation that will be discarded.\n\t'mario_LegR2_dummy'
+      has translation animation that will be discarded.\n\t'mario_LegR2' has scale
+      animation that will be discarded.\n\t'mario_FootR_dummy' has translation animation
+      that will be discarded.\n\t'mario_FootR' has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mario_JointRoot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegL1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegR1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegL2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegR2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_FootL
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_FootR
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ShoulderL
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ShoulderR
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmL1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmR1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmL2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmR2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_HandL
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_HandR
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Eye0
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mario galaxy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Point001
+      parentName: mario galaxy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_All_Root
+      parentName: Point001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Center_dummy
+      parentName: mario_All_Root
+      position: {x: -0, y: 1.5113, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Center
+      parentName: mario_Center_dummy
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_JointRoot
+      parentName: mario_Center
+      position: {x: 0, y: -0.32677853, z: -0.101599984}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine1_dummy
+      parentName: mario_JointRoot
+      position: {x: -0, y: 0.0254, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine1
+      parentName: mario_Spine1_dummy
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.49997598, y: -0.49997604, z: -0.50002396, w: 0.500024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine2_dummy
+      parentName: mario_Spine1
+      position: {x: -0.3302, y: 0, z: 0}
+      rotation: {x: -1.9828453e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine2
+      parentName: mario_Spine2_dummy
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.9828453e-12, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Head_dummy
+      parentName: mario_Spine2
+      position: {x: -0.60959965, y: 0, z: 0}
+      rotation: {x: -1.9828453e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Head
+      parentName: mario_Head_dummy
+      position: {x: -0.00000024223328, y: 0, z: 0}
+      rotation: {x: 0.00027057444, y: -0.00020277024, z: -0.70705885, w: 0.7071547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_CapPosition
+      parentName: mario_Head
+      position: {x: 0.0000000017209444, y: -0.00000038757324, z: -1.8924474e-10}
+      rotation: {x: -0.7071067, y: 0.0002948525, z: 0.70710677, w: -0.0002391116}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: mario_Cap0
+      parentName: mario_CapPosition
+      position: {x: -0.00000019425381, y: 0.0010648575, z: -0.0011462539}
+      rotation: {x: -0.00010392731, y: 0.00008175876, z: 0.000038857823, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: mario_EyePosition
+      parentName: mario_Head
+      position: {x: 0.0000000017209444, y: -0.00000038757324, z: -1.8924474e-10}
+      rotation: {x: -0.7071067, y: 0.0002948525, z: 0.70710677, w: -0.0002391116}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: mario_Eye0
+      parentName: mario_EyePosition
+      position: {x: -0.000026976744, y: -2.4383929, z: 0.10176558}
+      rotation: {x: -0.00010392731, y: 0.00008175876, z: 0.000038857823, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: mario_FacePosition
+      parentName: mario_Head
+      position: {x: 0.0000000017209444, y: -0.00000038757324, z: -1.8924474e-10}
+      rotation: {x: -0.7071067, y: 0.0002948525, z: 0.70710677, w: -0.0002391116}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: mario_Face0
+      parentName: mario_FacePosition
+      position: {x: -0.000000025737286, y: 0.00000019378662, z: -0.000000012111664}
+      rotation: {x: -0.00010392731, y: 0.00008175876, z: 0.000038857823, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: mario_ShoulderR
+      parentName: mario_Spine2
+      position: {x: -0.2031999, y: 0.025399996, z: -0.07619999}
+      rotation: {x: 0.4997706, y: 0.5001953, z: 0.49979064, w: -0.50024325}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: mario_ArmR1_dummy
+      parentName: mario_ShoulderR
+      position: {x: -0.35559937, y: -0.000001550293, z: -0.000049960614}
+      rotation: {x: 1.2028046e-24, y: 1.3224977e-12, z: -9.094947e-13, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: mario_ArmR1
+      parentName: mario_ArmR1_dummy
+      position: {x: -0, y: 0, z: -0.000000006055832}
+      rotation: {x: -0.00048542002, y: -0.00007023553, z: 0.0000025885115, w: 0.99999994}
+      scale: {x: 0.9999996, y: 0.99999976, z: 1}
+    - name: mario_ArmR2_dummy
+      parentName: mario_ArmR1
+      position: {x: -0.39624014, y: -0.00000058135987, z: 0.000000012111664}
+      rotation: {x: 3.6379786e-12, y: -9.58833e-12, z: -0.000000014544639, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmR2
+      parentName: mario_ArmR2_dummy
+      position: {x: -0, y: 0, z: -0.000000006055832}
+      rotation: {x: 2.3374816e-11, y: 0.00014376643, z: -0.000000028481049, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: mario_HandR_dummy
+      parentName: mario_ArmR2
+      position: {x: -0.4572, y: -0.00000038757324, z: 0.000000024223327}
+      rotation: {x: 0, y: 1.4988013e-12, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: mario_HandR
+      parentName: mario_HandR_dummy
+      position: {x: 0.00000019378662, y: 0, z: 0}
+      rotation: {x: -0.5360195, y: -0.46109807, z: -0.53615725, w: 0.46109322}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: mario_HandR0
+      parentName: mario_HandR
+      position: {x: 0.000046127272, y: -0.0001751831, z: -0.00004193058}
+      rotation: {x: -0.000049590923, y: -2.9558296e-12, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: mario_ShoulderL
+      parentName: mario_Spine2
+      position: {x: -0.2032003, y: 0.025399996, z: 0.07619999}
+      rotation: {x: 0.49994206, y: 0.50002414, z: -0.50005764, w: 0.49997616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL1_dummy
+      parentName: mario_ShoulderL
+      position: {x: -0.35559946, y: -0.00000019378662, z: -0.000000048446655}
+      rotation: {x: -0.000000002288715, y: 5.2379663e-12, z: 7.275958e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL1
+      parentName: mario_ArmL1_dummy
+      position: {x: 0.000000048446655, y: 0.00000019378662, z: -0.000000006055832}
+      rotation: {x: 0.0000006301217, y: 2.453932e-12, z: -7.275954e-12, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.99999976}
+    - name: mario_ArmL2_dummy
+      parentName: mario_ArmL1
+      position: {x: -0.39624014, y: 0, z: -0.000000048446655}
+      rotation: {x: -0.000000002288715, y: 4.406031e-12, z: 7.275958e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL2
+      parentName: mario_ArmL2_dummy
+      position: {x: 0.00000009689331, y: 0.00000019378662, z: -0.000000012111664}
+      rotation: {x: -1, y: 0.000000006956145, z: -0.00014400488, w: -0.000047963567}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: mario_HandL_dummy
+      parentName: mario_ArmL2
+      position: {x: -0.4571999, y: 0, z: -0.000000054502486}
+      rotation: {x: 0, y: -1.0986767e-11, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: mario_HandL
+      parentName: mario_HandL_dummy
+      position: {x: 0.00000009689331, y: -0.00000019378662, z: 0}
+      rotation: {x: 0.5357851, y: -0.4614808, z: 0.53595227, w: 0.46122137}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: mario_HandL0
+      parentName: mario_HandL
+      position: {x: 0.000046315003, y: 0.00017653962, z: -0.00004198508}
+      rotation: {x: -0.0000021935991, y: -0, z: -1.45519135e-11, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: mario_Hip
+      parentName: mario_JointRoot
+      position: {x: -0, y: -0.0254, z: 0.000000006055832}
+      rotation: {x: 0.49997598, y: 0.49997604, z: 0.50002396, w: 0.500024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL1_dummy
+      parentName: mario_Hip
+      position: {x: -0.17779993, y: 0.057828736, z: -0.29209998}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL1
+      parentName: mario_LegL1_dummy
+      position: {x: -0.00000012111664, y: 0.00000009689331, z: 0.000000048446655}
+      rotation: {x: 1.9798308e-12, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL2_dummy
+      parentName: mario_LegL1
+      position: {x: -0.50111103, y: 0.00000009689331, z: 0.00000019984245}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL2
+      parentName: mario_LegL2_dummy
+      position: {x: 0.000000048446655, y: 0, z: -0.00000003027916}
+      rotation: {x: 1.9798308e-12, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootL_dummy
+      parentName: mario_LegL2
+      position: {x: -0.36731514, y: 0.00008294067, z: 0.00000003027916}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootL
+      parentName: mario_FootL_dummy
+      position: {x: 0.000000024223327, y: 0, z: 0.000000009083748}
+      rotation: {x: 0.000029176475, y: -0.00003799796, z: -0.6103069, w: 0.79216504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR1_dummy
+      parentName: mario_Hip
+      position: {x: -0.17779973, y: 0.057828736, z: 0.29210007}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR1
+      parentName: mario_LegR1_dummy
+      position: {x: -0.00000012111664, y: 0.00000009689331, z: -0.000000024223327}
+      rotation: {x: 1.9798308e-12, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR2_dummy
+      parentName: mario_LegR1
+      position: {x: -0.5011108, y: 0.00000009689331, z: 0.00000018773079}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR2
+      parentName: mario_LegR2_dummy
+      position: {x: -0.00000009689331, y: 0, z: -0.000000042390823}
+      rotation: {x: 1.9798308e-12, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootR_dummy
+      parentName: mario_LegR2
+      position: {x: -0.36731508, y: 0.00008311024, z: 0.000000042390823}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootR
+      parentName: mario_FootR_dummy
+      position: {x: -0.00000009689331, y: 0, z: 0.00000003027916}
+      rotation: {x: 0.000029176475, y: -0.00003799796, z: -0.6103069, w: 0.79216504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_PartsControl_dummy
+      parentName: mario_All_Root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_PartsControl
+      parentName: mario_PartsControl_dummy
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario
+      parentName: mario galaxy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

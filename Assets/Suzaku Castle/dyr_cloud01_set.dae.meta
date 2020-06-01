@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: 0c9ea0a0a62599846a075b318bdae6e4
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - _cloud_center_041_O_OBJ_O_HIRShape
+    - cloud_01
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_003_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_003_O_OBJ_O_HIR/pPlane25
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_003_O_OBJ_O_HIR/pPlane25/tmp_gomi_cloud_center_003_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_004_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_004_O_OBJ_O_HIR/pPlane18
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_004_O_OBJ_O_HIR/pPlane18/tmp_gomi_cloud_center_004_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_005_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_005_O_OBJ_O_HIR/pPlane10
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_005_O_OBJ_O_HIR/pPlane10/tmp_gomi_cloud_center_005_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_006_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_006_O_OBJ_O_HIR/pPlane29
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_006_O_OBJ_O_HIR/pPlane29/tmp_gomi_cloud_center_006_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_007_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_007_O_OBJ_O_HIR/pPlane22
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_007_O_OBJ_O_HIR/pPlane22/tmp_gomi_cloud_center_007_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_008_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_008_O_OBJ_O_HIR/pPlane32
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_008_O_OBJ_O_HIR/pPlane32/tmp_gomi_cloud_center_008_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_009_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_009_O_OBJ_O_HIR/pPlane34
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_009_O_OBJ_O_HIR/pPlane34/tmp_gomi_cloud_center_009_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_011_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_011_O_OBJ_O_HIR/pPlane36
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_011_O_OBJ_O_HIR/pPlane36/tmp_gomi_cloud_center_011_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_012_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_012_O_OBJ_O_HIR/pPlane41
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_012_O_OBJ_O_HIR/pPlane41/tmp_gomi_cloud_center_012_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_013_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_013_O_OBJ_O_HIR/pPlane42
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_013_O_OBJ_O_HIR/pPlane42/tmp_gomi_cloud_center_013_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_014_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_014_O_OBJ_O_HIR/pPlane43
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_014_O_OBJ_O_HIR/pPlane43/tmp_gomi_cloud_center_014_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_015_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_015_O_OBJ_O_HIR/pPlane15
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_015_O_OBJ_O_HIR/pPlane15/tmp_gomi_cloud_center_015_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_016_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_016_O_OBJ_O_HIR/pPlane45
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_016_O_OBJ_O_HIR/pPlane45/tmp_gomi_cloud_center_016_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_017_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_017_O_OBJ_O_HIR/pPlane39
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_017_O_OBJ_O_HIR/pPlane39/tmp_gomi_cloud_center_017_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_020_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_020_O_OBJ_O_HIR/pPlane16
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_020_O_OBJ_O_HIR/pPlane16/tmp_gomi_cloud_center_020_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_021_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_021_O_OBJ_O_HIR/pPlane33
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_021_O_OBJ_O_HIR/pPlane33/tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_022_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_022_O_OBJ_O_HIR/pPlane21
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_022_O_OBJ_O_HIR/pPlane21/tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_024_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_024_O_OBJ_O_HIR/pPlane23
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_024_O_OBJ_O_HIR/pPlane23/tmp_gomi_cloud_center_024_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_025_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_025_O_OBJ_O_HIR/pPlane14
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_025_O_OBJ_O_HIR/pPlane14/tmp_gomi_cloud_center_025_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_026_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_026_O_OBJ_O_HIR/pPlane6
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_026_O_OBJ_O_HIR/pPlane6/tmp_gomi_cloud_center_026_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_027_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_027_O_OBJ_O_HIR/pPlane20
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_027_O_OBJ_O_HIR/pPlane20/tmp_gomi_cloud_center_027_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_028_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_028_O_OBJ_O_HIR/pPlane38
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_028_O_OBJ_O_HIR/pPlane38/tmp_gomi_cloud_center_028_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_029_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_029_O_OBJ_O_HIR/pPlane40
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_029_O_OBJ_O_HIR/pPlane40/tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_031_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_031_O_OBJ_O_HIR/pPlane28
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_031_O_OBJ_O_HIR/pPlane28/tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_032_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_032_O_OBJ_O_HIR/pPlane13
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_032_O_OBJ_O_HIR/pPlane13/tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_034_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_034_O_OBJ_O_HIR/pPlane46
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_034_O_OBJ_O_HIR/pPlane46/cloud_center_034_O_OBJ_O_HIR_aimConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_035_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_035_O_OBJ_O_HIR/pPlane12
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_035_O_OBJ_O_HIR/pPlane12/tmp_gomi_cloud_center_025_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_036_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_036_O_OBJ_O_HIR/pPlane27
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_036_O_OBJ_O_HIR/pPlane27/tmp_gomi_cloud_center_026_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_038_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_038_O_OBJ_O_HIR/pPlane9
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_038_O_OBJ_O_HIR/pPlane9/tmp_gomi_cloud_center_028_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_039_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_039_O_OBJ_O_HIR/pPlane11
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_039_O_OBJ_O_HIR/pPlane11/tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_040_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_040_O_OBJ_O_HIR/pPlane30
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_040_O_OBJ_O_HIR/pPlane30/tmp_gomi_cloud_center_030_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_041_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_041_O_OBJ_O_HIR/_cloud_center_041_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_041_O_OBJ_O_HIR/_cloud_center_041_O_OBJ_O_HIR/tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint2
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_042_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_042_O_OBJ_O_HIR/pPlane7
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_042_O_OBJ_O_HIR/pPlane7/tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint2
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_043_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_043_O_OBJ_O_HIR/pPlane24
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_043_O_OBJ_O_HIR/pPlane24/cloud_center_043_O_OBJ_O_HIR_aimConstraint1
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_044_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_044_O_OBJ_O_HIR/pPlane17
+    - cloud_01/dyr_cloud01_O_OBJ_O_HIR/cloud_center_044_O_OBJ_O_HIR/pPlane17/tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint2
+    - cloud_01/dyr_cloud02_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud02_O_OBJ_O_HIR/cloud_center_018_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud02_O_OBJ_O_HIR/cloud_center_018_O_OBJ_O_HIR/pPlane47
+    - cloud_01/dyr_cloud02_O_OBJ_O_HIR/cloud_center_018_O_OBJ_O_HIR/pPlane47/tmp_gomi_cloud_center_018_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud03_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud03_O_OBJ_O_HIR/cloud_center_010_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud03_O_OBJ_O_HIR/cloud_center_010_O_OBJ_O_HIR/pPlane44
+    - cloud_01/dyr_cloud03_O_OBJ_O_HIR/cloud_center_010_O_OBJ_O_HIR/pPlane44/tmp_gomi_cloud_center_010_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_01/dyr_cloud04_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud04_O_OBJ_O_HIR/cloud_center_002_O_OBJ_O_HIR
+    - cloud_01/dyr_cloud04_O_OBJ_O_HIR/cloud_center_002_O_OBJ_O_HIR/pPlane26
+    - cloud_01/dyr_cloud04_O_OBJ_O_HIR/cloud_center_002_O_OBJ_O_HIR/pPlane26/tmp_gomi_cloud_center_002_O_OBJ_O_HIR_scaleConstraint1
+    - cloud_center_018_O_OBJ_O_HIRShape
+    - EnvironmentAmbientLight
+    - pPlaneShape6
+    - pPlaneShape7
+    - pPlaneShape9
+    - pPlaneShape10
+    - pPlaneShape11
+    - pPlaneShape12
+    - pPlaneShape13
+    - pPlaneShape14
+    - pPlaneShape15
+    - pPlaneShape16
+    - pPlaneShape17
+    - pPlaneShape18
+    - pPlaneShape20
+    - pPlaneShape21
+    - pPlaneShape22
+    - pPlaneShape23
+    - pPlaneShape24
+    - pPlaneShape25
+    - pPlaneShape26
+    - pPlaneShape27
+    - pPlaneShape28
+    - pPlaneShape29
+    - pPlaneShape30
+    - pPlaneShape32
+    - pPlaneShape33
+    - pPlaneShape34
+    - pPlaneShape36
+    - pPlaneShape38
+    - pPlaneShape39
+    - pPlaneShape40
+    - pPlaneShape41
+    - pPlaneShape42
+    - pPlaneShape43
+    - pPlaneShape44
+    - pPlaneShape45
+    - pPlaneShape46
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: dyr_cloud01_set(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EnvironmentAmbientLight
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape44
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape26
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape24
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape43
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape42
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape40
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape39
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape41
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape38
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape36
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape32
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape30
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape34
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape29
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape33
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape28
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape27
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape22
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape21
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape20
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape45
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape46
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape18
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _cloud_center_041_O_OBJ_O_HIRShape
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape9
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape10
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape7
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape6
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape25
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape17
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape11
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape16
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape15
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape14
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape23
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape12
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlaneShape13
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_018_O_OBJ_O_HIRShape
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_01
+      parentName: dyr_cloud01_set(Clone)
+      position: {x: -91.5254, y: 20, z: 17.6414}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dyr_cloud01_O_OBJ_O_HIR
+      parentName: cloud_01
+      position: {x: 91.5254, y: 17.6414, z: -20}
+      rotation: {x: -0, y: 0.021713825, z: -0, w: 0.99976426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_003_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 46336.9, y: 7172.45, z: -1067.25}
+      rotation: {x: 0.054848842, y: -0.69686, z: 0.05360009, w: 0.7130952}
+      scale: {x: 3.957309, y: 9.893273, z: 0.9999996}
+    - name: pPlane25
+      parentName: cloud_center_003_O_OBJ_O_HIR
+      position: {x: 0.000694116, y: 0.002711881, z: 46900.87}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_003_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane25
+      position: {x: 0.000892798, y: -0.004306783, z: -46900.88}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_004_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -3155.91, y: 3511.41, z: -23561.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.29315, y: 5.35068, z: 1}
+    - name: pPlane18
+      parentName: cloud_center_004_O_OBJ_O_HIR
+      position: {x: 1376.234, y: -656.255, z: 23561.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_004_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane18
+      position: {x: -1376.234, y: 656.2549, z: -23561.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_005_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -10905.5, y: 6052.02, z: -12270.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.38649, y: 8.77299, z: 1}
+    - name: pPlane10
+      parentName: cloud_center_005_O_OBJ_O_HIR
+      position: {x: 2486.157, y: -689.847, z: 12270.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_005_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane10
+      position: {x: -2486.156, y: 689.847, z: -12270.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_006_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 19235.1, y: 3621.43, z: -50693}
+      rotation: {x: 0.032793574, y: -0.18023744, z: 0.0060124784, w: 0.9830579}
+      scale: {x: 2.465355, y: 4.930702, z: 1}
+    - name: pPlane29
+      parentName: cloud_center_006_O_OBJ_O_HIR
+      position: {x: -0.01318359, y: -0.001075371, z: 54340.43}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_006_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane29
+      position: {x: 0.01367187, y: 0.001990899, z: -54340.43}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_007_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -17053.8, y: 2909.79, z: -38218.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.47128, y: 6.17819, z: 1}
+    - name: pPlane22
+      parentName: cloud_center_007_O_OBJ_O_HIR
+      position: {x: 6900.795, y: -470.9777, z: 38218.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_007_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane22
+      position: {x: -6900.796, y: 470.9778, z: -38218.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_008_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -609.602, y: 221.936, z: -66219.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.35124, y: 3.37809, z: 1}
+    - name: pPlane32
+      parentName: cloud_center_008_O_OBJ_O_HIR
+      position: {x: 451.1426, y: -65.69865, z: 66219.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_008_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane32
+      position: {x: -451.1427, y: 65.69867, z: -66219.1}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_009_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -14502.7, y: 930.442, z: -55453.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.78185, y: 3.56371, z: 1}
+    - name: pPlane34
+      parentName: cloud_center_009_O_OBJ_O_HIR
+      position: {x: 8139.126, y: -261.0881, z: 55453.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_009_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane34
+      position: {x: -8139.127, y: 261.0881, z: -55453.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_011_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -12258.3, y: -101.575, z: -68101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.637979, y: 1.59495, z: 1}
+    - name: pPlane36
+      parentName: cloud_center_011_O_OBJ_O_HIR
+      position: {x: 19214.27, y: 63.68538, z: 68101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_011_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane36
+      position: {x: -19214.27, y: -63.68538, z: -68101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_012_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -13169.3, y: -474.352, z: -79392.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.618219, y: 1.23644, z: 1.00034}
+    - name: pPlane41
+      parentName: cloud_center_012_O_OBJ_O_HIR
+      position: {x: 21301.99, y: 383.6434, z: 79365.73}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_012_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane41
+      position: {x: -21302, y: -383.6434, z: -79365.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_013_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -9835, y: -486.595, z: -87433.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.43982, y: 0.87964, z: 1.00034}
+    - name: pPlane42
+      parentName: cloud_center_013_O_OBJ_O_HIR
+      position: {x: 22361.42, y: 553.1752, z: 87404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_013_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane42
+      position: {x: -22361.42, y: -553.1752, z: -87403.98}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_014_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 4075.95, y: -363.348, z: -87284}
+      rotation: {x: -0.0020786817, y: -0.023329651, z: -0.000048508227, w: 0.9997257}
+      scale: {x: 0.5086387, y: 1.271601, z: 1.000004}
+    - name: pPlane43
+      parentName: cloud_center_014_O_OBJ_O_HIR
+      position: {x: -0.004157521, y: -0.0156636, z: 87379.52}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_014_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane43
+      position: {x: 0.00366924, y: 0.01557204, z: -87379.52}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_015_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 14959.9, y: 9101.45, z: 10429.6}
+      rotation: {x: 0.006290141, y: 0.021700865, z: -0.00013653662, w: 0.9997447}
+      scale: {x: 4.417181, y: 8.834362, z: 0.9999998}
+    - name: pPlane15
+      parentName: cloud_center_015_O_OBJ_O_HIR
+      position: {x: -3281.108, y: -1045.917, z: -10953.52}
+      rotation: {x: 0.1499972, y: -0.2545533, z: 0.01626249, w: 0.9552168}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_015_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane15
+      position: {x: 3281.107, y: 1045.918, z: 10953.53}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_016_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -40988.9, y: 5478.58, z: -26721}
+      rotation: {x: 0.048993908, y: 0.47564656, z: -0.026545849, w: 0.8778697}
+      scale: {x: 2.93116, y: 7.327899, z: 1.000004}
+    - name: pPlane45
+      parentName: cloud_center_016_O_OBJ_O_HIR
+      position: {x: -0.004952725, y: 0.000245078, z: 49235.14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_016_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane45
+      position: {x: 0.004952725, y: -0.000489219, z: -49235.12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_017_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 2330.46, y: 437.415, z: -78947.4}
+      rotation: {x: 0.0027687633, y: -0.014754741, z: 0.000040856812, w: 0.99988735}
+      scale: {x: 0.8421057, y: 2.105263, z: 0.9999997}
+    - name: pPlane39
+      parentName: cloud_center_017_O_OBJ_O_HIR
+      position: {x: 0.007262519, y: 0.000647717, z: 78983.04}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_017_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane39
+      position: {x: -0.007506659, y: -0.000693494, z: -78983.03}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_020_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 9136.92, y: 6509.27, z: 4320.57}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.12962, y: 7.30244, z: 1}
+    - name: pPlane16
+      parentName: cloud_center_020_O_OBJ_O_HIR
+      position: {x: -2919.499, y: -891.383, z: -4320.57}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_020_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane16
+      position: {x: 2919.498, y: 891.3828, z: 4320.57}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_021_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -5878.19, y: 1361.36, z: -49851.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.00592, y: 4.01185, z: 1}
+    - name: pPlane33
+      parentName: cloud_center_021_O_OBJ_O_HIR
+      position: {x: 2930.421, y: -339.3347, z: 49851.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane33
+      position: {x: -2930.421, y: 339.3347, z: -49851.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_022_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -1880.86, y: 1946.93, z: -33481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.99557, y: 4.65633, z: 1}
+    - name: pPlane21
+      parentName: cloud_center_022_O_OBJ_O_HIR
+      position: {x: 942.5176, y: -418.1254, z: 33481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane21
+      position: {x: -942.5175, y: 418.1254, z: -33481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_024_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 34102.6, y: 3517.71, z: 21148.6}
+      rotation: {x: -0, y: -0.13001147, z: 0, w: 0.9915125}
+      scale: {x: 4.845941, y: 9.69189, z: 1}
+    - name: pPlane23
+      parentName: cloud_center_024_O_OBJ_O_HIR
+      position: {x: -7924.607, y: -362.954, z: -11641.46}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_024_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane23
+      position: {x: 7924.606, y: 362.954, z: 11641.46}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_025_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 6813.79, y: 9767.11, z: 17042.5}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.6817, y: 9.3634, z: 1}
+    - name: pPlane14
+      parentName: cloud_center_025_O_OBJ_O_HIR
+      position: {x: -1455.409, y: -1043.116, z: -17042.5}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_025_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane14
+      position: {x: 1455.409, y: 1043.116, z: 17042.5}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_026_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -1649.58, y: 8183.94, z: -3259.63}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.86961, y: 7.73923, z: 1}
+    - name: pPlane6
+      parentName: cloud_center_026_O_OBJ_O_HIR
+      position: {x: 426.291, y: -1057.462, z: 3259.63}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_026_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane6
+      position: {x: -426.291, y: 1057.461, z: -3259.629}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_027_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 9476.08, y: 6060.47, z: -30063}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.79748, y: 5.59496, z: 1}
+    - name: pPlane20
+      parentName: cloud_center_027_O_OBJ_O_HIR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_027_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane20
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_028_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -2276.69, y: -145.963, z: -78592.2}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85631, y: 1.71262, z: 1}
+    - name: pPlane38
+      parentName: cloud_center_028_O_OBJ_O_HIR
+      position: {x: 2658.722, y: 85.2279, z: 78592.19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_028_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane38
+      position: {x: -2658.722, y: -85.2279, z: -78592.19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_029_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -2441.27, y: -470.536, z: -81317.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.653893, y: 1.30779, z: 1}
+    - name: pPlane40
+      parentName: cloud_center_029_O_OBJ_O_HIR
+      position: {x: 3733.44, y: 359.7948, z: 81317.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint
+      parentName: pPlane40
+      position: {x: -3733.44, y: -359.7948, z: -81317.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_031_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 11162.2, y: 6186.21, z: -45346.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.18613, y: 4.37227, z: 1}
+    - name: pPlane28
+      parentName: cloud_center_031_O_OBJ_O_HIR
+      position: {x: -5105.917, y: -1414.874, z: 45346.7}
+      rotation: {x: 0.0030241825, y: -0.5155605, z: -0.06958847, w: 0.8540173}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane28
+      position: {x: 5105.917, y: 1414.874, z: -45346.7}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_032_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -2638.89, y: 6850.61, z: 23714.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.94859, y: 9.89719, z: 1}
+    - name: pPlane13
+      parentName: cloud_center_032_O_OBJ_O_HIR
+      position: {x: 533.261, y: -692.1772, z: -23714.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane13
+      position: {x: -533.261, y: 692.1774, z: 23714.9}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_034_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -53295.1, y: 7375.2, z: -13873.3}
+      rotation: {x: 0.052625205, y: 0.61023533, z: -0.040680084, w: 0.7894229}
+      scale: {x: 3.445066, y: 6.890138, z: 1}
+    - name: pPlane46
+      parentName: cloud_center_034_O_OBJ_O_HIR
+      position: {x: 0.002632734, y: -0.002301879, z: 55562.82}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_034_O_OBJ_O_HIR_aimConstraint1
+      parentName: pPlane46
+      position: {x: -0.004585858, y: -0.001756958, z: -55562.85}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_035_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -9635.67, y: 11987.9, z: 20635.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.82541, y: 9.65083, z: 1}
+    - name: pPlane12
+      parentName: cloud_center_035_O_OBJ_O_HIR
+      position: {x: 1996.86, y: -1242.163, z: -20635.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_025_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane12
+      position: {x: -1996.86, y: 1242.163, z: 20635.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_036_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 14139.6, y: 7587.44, z: -38560.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.45759, y: 4.91518, z: 1}
+    - name: pPlane27
+      parentName: cloud_center_036_O_OBJ_O_HIR
+      position: {x: -5753.442, y: -1543.675, z: 38560.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_026_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane27
+      position: {x: 5753.442, y: 1543.675, z: -38560.3}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_038_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -16866.4, y: 11863.5, z: -16765.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.32937, y: 6.65874, z: 1}
+    - name: pPlane9
+      parentName: cloud_center_038_O_OBJ_O_HIR
+      position: {x: 5065.944, y: -1781.643, z: 16765.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_028_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane9
+      position: {x: -5065.944, y: 1781.643, z: -16765.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_039_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: -16113.7, y: 6824.86, z: 2708.35}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.59479, y: 7.18958, z: 1}
+    - name: pPlane11
+      parentName: cloud_center_039_O_OBJ_O_HIR
+      position: {x: 4482.515, y: -949.271, z: -2708.35}
+      rotation: {x: -0.0022939984, y: -0.026363606, z: 0.05278608, w: 0.99825513}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane11
+      position: {x: -4482.515, y: 949.271, z: 2708.35}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_040_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 10613.5, y: 1335.97, z: -56564.6}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.73742, y: 3.47483, z: 1}
+    - name: pPlane30
+      parentName: cloud_center_040_O_OBJ_O_HIR
+      position: {x: -6108.771, y: -384.4706, z: 56564.6}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_030_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane30
+      position: {x: 6108.771, y: 384.4706, z: -56564.6}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_041_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 20261.3, y: 2791.67, z: -21029.6}
+      rotation: {x: -0, y: -0.1262247, z: 0, w: 0.9920017}
+      scale: {x: 3.158817, y: 6.31763, z: 1}
+    - name: _cloud_center_041_O_OBJ_O_HIR
+      parentName: cloud_center_041_O_OBJ_O_HIR
+      position: {x: -4542.595, y: -441.8857, z: 25433.52}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_021_O_OBJ_O_HIR_scaleConstraint2
+      parentName: _cloud_center_041_O_OBJ_O_HIR
+      position: {x: 4542.592, y: 441.8857, z: -25433.52}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_042_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 17396.2, y: 7945.11, z: -7783.53}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.68866, y: 7.37732, z: 1}
+    - name: pPlane7
+      parentName: cloud_center_042_O_OBJ_O_HIR
+      position: {x: -4716.13, y: -1076.964, z: 7783.53}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_022_O_OBJ_O_HIR_scaleConstraint2
+      parentName: pPlane7
+      position: {x: 4716.13, y: 1076.965, z: -7783.53}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_043_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 67591.2, y: 2247.41, z: 10483.6}
+      rotation: {x: 0.010685054, y: -0.7592623, z: 0.012470148, w: 0.6505775}
+      scale: {x: 4.419349, y: 8.838687, z: 0.9999996}
+    - name: pPlane24
+      parentName: cloud_center_043_O_OBJ_O_HIR
+      position: {x: -0.01435171, y: -0.002385513, z: 68436.34}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_043_O_OBJ_O_HIR_aimConstraint1
+      parentName: pPlane24
+      position: {x: 0.01361929, y: -0.002746209, z: -68436.35}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_044_O_OBJ_O_HIR
+      parentName: dyr_cloud01_O_OBJ_O_HIR
+      position: {x: 35887, y: 2429.68, z: -1044.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.46343, y: 6.92686, z: 1}
+    - name: pPlane17
+      parentName: cloud_center_044_O_OBJ_O_HIR
+      position: {x: -10361.69, y: -350.7621, z: 1044.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_029_O_OBJ_O_HIR_scaleConstraint2
+      parentName: pPlane17
+      position: {x: 10361.69, y: 350.7621, z: -1044.8}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dyr_cloud02_O_OBJ_O_HIR
+      parentName: cloud_01
+      position: {x: 91.5254, y: 17.6414, z: -20}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_018_O_OBJ_O_HIR
+      parentName: dyr_cloud02_O_OBJ_O_HIR
+      position: {x: -42072.8, y: 10759, z: 15338.6}
+      rotation: {x: 0.0674387, y: 0.81361806, z: -0.09636703, w: 0.56937784}
+      scale: {x: 4.613544, y: 11.53383, z: 1}
+    - name: pPlane47
+      parentName: cloud_center_018_O_OBJ_O_HIR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_018_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane47
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dyr_cloud03_O_OBJ_O_HIR
+      parentName: cloud_01
+      position: {x: 91.5254, y: 17.6414, z: -20}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_010_O_OBJ_O_HIR
+      parentName: dyr_cloud03_O_OBJ_O_HIR
+      position: {x: 15425.8, y: -70.3042, z: -83751.8}
+      rotation: {x: -0.00041099245, y: -0.09094581, z: -0.00003753363, w: 0.99585575}
+      scale: {x: 0.8124111, y: 1.62482, z: 0.9999998}
+    - name: pPlane44
+      parentName: cloud_center_010_O_OBJ_O_HIR
+      position: {x: -0.004117474, y: 0.007507236, z: 85160.61}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_010_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane44
+      position: {x: 0.00216435, y: -0.007533939, z: -85160.62}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dyr_cloud04_O_OBJ_O_HIR
+      parentName: cloud_01
+      position: {x: 91.5254, y: 17.6414, z: -20}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cloud_center_002_O_OBJ_O_HIR
+      parentName: dyr_cloud04_O_OBJ_O_HIR
+      position: {x: 34933.9, y: 5346.58, z: -24523}
+      rotation: {x: 0.05524933, y: -0.46032506, z: 0.028719166, w: 0.88556397}
+      scale: {x: 3.01908, y: 7.547699, z: 0.9999999}
+    - name: pPlane26
+      parentName: cloud_center_002_O_OBJ_O_HIR
+      position: {x: -0.01535062, y: -0.000279823, z: 43015.6}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tmp_gomi_cloud_center_002_O_OBJ_O_HIR_scaleConstraint1
+      parentName: pPlane26
+      position: {x: 0.01632718, y: -0.0001932, z: -43015.59}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
